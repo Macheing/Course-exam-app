@@ -14,4 +14,5 @@ You may choose any cloud platform for deployment (default is IBM Cloud Foundry)
 Depends on your deployment, you may choose any SQL database Django supported such as SQLite3, PostgreSQL, and MySQL (default is SQLite3)
 
 ER Diagram For your reference, we have prepared the ER diagram design for the new assesement feature.
+
 ![image](https://user-images.githubusercontent.com/42636064/175813105-a501aa7e-5aca-47d8-b7a1-d5db549188a8.png)
